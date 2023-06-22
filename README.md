@@ -22,7 +22,7 @@ Dynaprime is a sleek and futuristic website that showcases a range of productivi
 
 ## Demo 🚀
 
-Check out the live demo of Dynaprime at [Demo Link](https://utkarsh11-dynaprime.netlify.app).
+Check out the live demo of Dynaprime at [Demo Link](https://utkarsh11-dynaprime.netlify.app/).
 
 ## Installation ⚙️
 
