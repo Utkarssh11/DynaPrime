@@ -17,8 +17,8 @@ Dynaprime is a sleek and futuristic website that showcases a range of productivi
 
 ## Screenshots 📷
 
-![Screenshot 1](/path/to/screenshot-1.png)
-![Screenshot 2](/path/to/screenshot-2.png)
+![Screenshot 1](https://github.com/Utkarssh11/DynaPrime/blob/main/dyny.png?raw=true)
+
 
 ## Demo 🚀
 
